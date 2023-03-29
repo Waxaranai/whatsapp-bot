@@ -1,21 +1,20 @@
 {
-  "name": "template",
-  "version": "0.0.0",
-  "description": "A repository for FrutBits Indonesia's project base",
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A whatsapp bot created with Baileys",
   "keywords": [
     "js",
     "typescript"
   ],
-  "homepage": "https://frutbits.org/",
   "bugs": {
-    "url": "https://github.com/frutbits/template/issues"
+    "url": "https://github.com/Waxaranai/whatsapp-bot/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frutbits/template.git"
+    "url": "git+https://github.com/Waxaranai/whatsapp-bot.git"
   },
   "license": "AGPL-3.0",
-  "author": "FrutBits Indonesia <contact@frutbits.org>",
+  "author": "Waxaranai <wisnu@waku-prjkt.my.id>",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
