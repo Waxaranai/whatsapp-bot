@@ -1,0 +1,7 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.eol": "\n",
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": [".github/workflows/*.{yml,yaml}"]
+    }
+}
